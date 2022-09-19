@@ -1,1 +1,1 @@
-jmbrannan.github.io
+/home/jmb/repos/recipes-odin/README.md
