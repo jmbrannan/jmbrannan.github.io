@@ -1,1 +1,2 @@
-recipes-odin/README.md
+# odin-recipes
+The Odin Project Foundations Course
