@@ -1,1 +1,1 @@
-/home/jmb/repos/recipes-odin/README.md
+recipes-odin/README.md
